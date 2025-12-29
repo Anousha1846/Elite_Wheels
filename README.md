@@ -1,7 +1,7 @@
-# MORENT - Car Rentals
+# EliteWheels - Car Rentals
 
-## 🚗 About MORENT
-MORENT is an advanced car rental platform designed to provide users with a seamless experience for renting vehicles. The website offers a user-friendly interface, efficient booking system, and a powerful admin dashboard for order management. Built using **Next.js 14, TypeScript, Sanity CMS**, and **Tailwind CSS**, it ensures high performance, responsiveness, and an interactive user experience.
+## 🚗 About EliteWheels
+EliteWheels is an advanced car rental platform designed to provide users with a seamless experience for renting vehicles. The website offers a user-friendly interface, efficient booking system, and a powerful admin dashboard for order management. Built using **Next.js 14, TypeScript, Sanity CMS**, and **Tailwind CSS**, it ensures high performance, responsiveness, and an interactive user experience.
 
 ## ✨ Features
 - **Car Rental Booking System** – Rent cars quickly with an intuitive UI.
@@ -81,7 +81,7 @@ src/
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/Anousha1846/Hackathon3-GIAIC_Morent.git
+git clone https://github.com/Anousha1846/Elite_Wheels.git
 
 ```
 
